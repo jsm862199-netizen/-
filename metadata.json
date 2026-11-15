@@ -1,0 +1,6 @@
+{
+  "name": "바른말 영상 분석실",
+  "description": "학생 영상을 업로드하면 AI가 욕설 및 비속어 발화 장면의 타임스탬프와 누적 횟수를 정밀 분석해 주는 교사용 영상 지도 도구입니다.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
